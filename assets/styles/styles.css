@@ -1,0 +1,18 @@
+body{
+    margin: 0!important;
+    padding: 0!important;
+}
+.tagline_title {
+    font-size: 6vw;
+}
+.tagline-subtitle {
+    font-size: 2vw;
+}
+.features-tagline {
+    width: 44%;
+    background-color: #e8e8e8;
+    position: relative;
+    bottom: 4em;
+    left: 55.99999%;
+    padding: 1em 1em;
+}
